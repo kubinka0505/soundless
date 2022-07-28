@@ -1,0 +1,6 @@
+sty
+filedate
+colour>=0.1.5
+Pillow>=5.1
+mutagen>=1.45.1
+pyshortcuts
